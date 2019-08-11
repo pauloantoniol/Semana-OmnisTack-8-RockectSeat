@@ -1,4 +1,4 @@
-###Semana-OmniStack-8-RocketSeat
+Semana-OmniStack-8-RocketSeat
 
 Projeto completo baseado nas aulas da RocketSeat feitos para a semana OmniStack 8, e com algumas modificações pessoas para melhorar a performance do Projeto
 
